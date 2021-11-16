@@ -1,5 +1,5 @@
 
-My name is Dawid Górski. I am currently looking for a intern or a job as Junior Java Developer. 
+My name is Dawid Górski. I am currently looking for an internship or a job as Junior Java Developer. 
 I mainly program in Java, but I have also experience with Python and frontend technologies like JavaScript, HTML and CSS.
 You can find me on	<a href="https://www.linkedin.com/in/dawid-g%C3%B3rski-3021321a0/" target="_blank"><img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>.
 

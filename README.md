@@ -8,4 +8,4 @@ You can find me on	<a href="https://www.linkedin.com/in/dawid-gorski/" target="_
 
 
 ## &#x1f4c8; GitHub Stats
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dawidgorski&theme=tokyonight&langs_count=3" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dawidgorski&theme=tokyonight&langs_count=4" />

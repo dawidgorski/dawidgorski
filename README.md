@@ -23,6 +23,6 @@ You can find me on	<a href="https://www.linkedin.com/in/dawid-gorski/" target="_
 
 ## :heavy_check_mark: Crowdtesting
 * UTest
-* TestIO
+* Test.io
 ## &#x1f4c8; GitHub Stats
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dawidgorski&theme=tokyonight&langs_count=4" />

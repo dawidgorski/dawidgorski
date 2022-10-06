@@ -1,6 +1,5 @@
 
-My name is Dawid Górski. I am currently looking for a job as Tester. 
-I mainly program in Java, but I have also experience with Python and frontend technologies like JavaScript, HTML and CSS.
+My name is Dawid Górski. I have some programming experience from my non commercial projects in java and python. My last python project glovo-bot is based on Selenium WebDriver. My goal now is to develop my testing knowledge.
 You can find me on	<a href="https://www.linkedin.com/in/dawid-gorski/" target="_blank"><img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>.
 
 ## 🔧 Technologies & Tools

@@ -1,5 +1,5 @@
 ## :wave: About me
-My name is Dawid Górski. You can see here my few non commercial projects in Java and Python. My last Python project glovo-bot is based on Selenium WebDriver. My goal now is to develop my testing knowledge.
+My name is Dawid Górski. You can see here my few non commercial projects in Java and Python.
 You can find me on	<a href="https://www.linkedin.com/in/dawid-gorski/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" height="20" /></a>.
 
 ## 🔧 Technologies & Tools
